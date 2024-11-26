@@ -105,5 +105,11 @@ La aplicación React debe estar disponible en el navegador en el puerto 3000, y 
 
 ![Resultado Final ](img2.jpg)
 
+## 10. Bibliografía
+Docker. (n.d.). Docker Documentation. Retrieved from https://docs.docker.com/.
+React. (n.d.). React Documentation. Retrieved from https://reactjs.org/.
+Node.js. (n.d.). Node.js Documentation. Retrieved from https://nodejs.org/.
+GitHub. (2024). SecurityFE Repository. Retrieved from https://github.com/maguaman2/securityfe.
+
 
 
